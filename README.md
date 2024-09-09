@@ -30,27 +30,31 @@ Feel free to explore the project and dive into the code. I hope it inspires and 
 
 Here, are few glimpses of Food-Express:
 
-![image](https://github.com/user-attachments/assets/a33f9e3d-d5fc-4844-886d-5273b2e85863)
-
+**Home-1**
 ![image](https://github.com/user-attachments/assets/59d8c9d2-4d29-4e5d-bb0c-f9af1aae09ec)
 
+**Home-scrolled**
+![image](https://github.com/user-attachments/assets/a33f9e3d-d5fc-4844-886d-5273b2e85863)
+
+**About-Us**
 ![image](https://github.com/user-attachments/assets/7a1ee6a7-4858-4a79-9959-d81ffd053dc6)
 
+**Contact-Us**
 ![image](https://github.com/user-attachments/assets/b28d1c14-a679-463c-b558-f408fbc30ab3)
 
-//menu 
+**menu** 
 ![image](https://github.com/user-attachments/assets/fcb6c4eb-8a61-478a-9cc8-6708fc5fe643)
 
-//recommended items
+**recommended items**
 ![image](https://github.com/user-attachments/assets/bf25a2c4-f8c2-4665-9a17-ac4ccf6bc520)
 
-//cart
+**cart**
 ![image](https://github.com/user-attachments/assets/501bf824-fbb3-445c-a4e2-6d3553ca9e21)
 
-//cart-scrolled
+**cart-scrolled**
 ![image](https://github.com/user-attachments/assets/b6107a9a-4ca7-47af-9706-ce62ed8bcf47)
 
-//order-placed
+**order-placed**
 ![image](https://github.com/user-attachments/assets/620bac08-4d12-46a3-bf05-c8582f06304a)
 
 
