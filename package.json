@@ -2,7 +2,6 @@
   "name": "food-app",
   "version": "1.0.0",
   "description": "learning",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
